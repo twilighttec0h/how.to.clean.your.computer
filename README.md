@@ -1,6 +1,6 @@
 # how to clean your computer
 
-[![how to clean your computer](get-detail.png)](https://github.com/twilighttec0h/how.to.clean.your.computer)
+[![how to clean your computer](get-detail.png)](https://icncomputer.com/how-to-clean-your-computer/)
 
 You can configure your fans however you like, use as many dust filters as you can, and make sure your PC is well away from carpets and floor-bound fluff, but at some point, the inside of your case is going to get dusty. You can't escape it, and it's a good idea to clean your PC now and then if you want to keep your components' temperatures manageable. Here are the methods we use to safely and thoroughly clean out our computers.
 
